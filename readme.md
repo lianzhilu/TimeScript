@@ -13,9 +13,9 @@ Before running this script, please configure the following environment：
 - The wasm runtime you want to run, such as
   - [wasmer](https://github.com/wasmerio/wasmer)
   - [wasmtime]([bytecodealliance/wasmtime: A fast and secure runtime for WebAssembly (github.com)](https://github.com/bytecodealliance/wasmtime))
-  - [wasm3]([wasm3/wasm3: 🚀 A fast WebAssembly interpreter and the most universal WASM runtime (github.com)](https://github.com/wasm3/wasm3))
-  - [wamr]([bytecodealliance/wasm-micro-runtime: WebAssembly Micro Runtime (WAMR) (github.com)](https://github.com/bytecodealliance/wasm-micro-runtime))
-  - [wasmedge]([WasmEdge](https://wasmedge.org/))
+  - [wasm3](https://github.com/wasm3/wasm3)
+  - [wamr](https://github.com/bytecodealliance/wasm-micro-runtime)
+  - [wasmedge](https://wasmedge.org/)
   - and so on...
 
 
